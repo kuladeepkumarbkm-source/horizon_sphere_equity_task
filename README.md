@@ -1,1 +1,1 @@
-# horizon_sphere_equity_task
+# task
